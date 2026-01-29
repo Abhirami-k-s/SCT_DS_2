@@ -11,7 +11,7 @@ To perform data cleaning and exploratory data analysis on the Titanic dataset to
 ## Steps Performed
 - Handled missing values (Age, Embarked)
 - Dropped irrelevant columns
-- Feature analysis using countplots, histograms, boxplots
+- Feature analysis using barplots,boxplots
 - Correlation analysis
 
 ## Key Insights
